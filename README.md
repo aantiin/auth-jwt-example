@@ -1,5 +1,5 @@
 # auth-jwt-example
-spring boot with jwt &amp; mysql
+spring boot with jwt, mysql, and rolling logfile with logback
 
 ## Credits
 
